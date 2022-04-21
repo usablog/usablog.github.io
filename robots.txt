@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /scripts/
+Disallow: /tmp/
+Sitemap: https://usablog.github.io/index.xml
+Sitemap: https://usablog.github.io/blog.xml
+Sitemap: https://usablog.github.io/How-to-sign-up-for-Gmail-account/index.xml
